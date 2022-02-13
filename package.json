@@ -1,0 +1,16 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch a videos.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurim-hgr/youTube-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yurim-hgr/youTube-clone/issues"
+  },
+  "homepage": "https://github.com/yurim-hgr/youTube-clone#readme"
+}
